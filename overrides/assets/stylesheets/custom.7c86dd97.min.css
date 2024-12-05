@@ -20,7 +20,7 @@
 .mdx__content {
   position: absolute;
   top: 18vw;
-  left: 9vw;
+  left: 6rem;
   width: 45vw;
 }
 .mdx_title {
@@ -43,13 +43,13 @@
   line-height: normal;
   letter-spacing: 0rem;
   color: #ffffff;
-  padding: 0 7rem;
+  padding: 0 6rem;
   margin: 2.7rem 0 1.4rem;
 }
 .container {
   display: flex;
   flex-wrap: wrap;
-  padding: 0 7rem 2rem;
+  padding: 0 6rem 2rem;
   gap: 3.2rem 1.5rem;
 }
 .item {
