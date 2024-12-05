@@ -4,10 +4,17 @@ class ~ " md-header--shadow md-header--lifted" %} {% elif "navigation.tabs" not
 in features %} {% set class = class ~ " md-header--shadow" %} {% endif %}
 <style>
   .md-header__title {
-    width: 200px;
+    min-width: 200px;
     font-weight: 900;
     color: #ffffff;
     font-size: 1rem;
+  }
+  .md-grid {
+    max-width: 100%;
+    padding: 0 6rem;
+  }
+  .md-tabs .md-grid {
+    padding: 0;
   }
 </style>
 <header class="{{ class }}" data-md-component="header">

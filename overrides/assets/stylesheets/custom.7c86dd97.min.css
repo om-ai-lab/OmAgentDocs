@@ -21,7 +21,7 @@
 .mdx__content {
   position: absolute;
   top: calc(42vw / 3);
-  left: 6rem;
+  left: 7rem;
   width: 45vw;
 }
 .mdx_title {
@@ -45,13 +45,13 @@
   line-height: normal;
   letter-spacing: 0rem;
   color: #ffffff;
-  padding: 0 6rem;
+  padding: 0 7rem;
   margin: 2.7rem 0 1.4rem;
 }
 .container {
   display: flex;
   flex-wrap: wrap;
-  padding: 0 6rem 2rem;
+  padding: 0 7rem 2rem;
   gap: 1.5rem 1.5rem;
 }
 .item {
@@ -89,8 +89,9 @@
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  background-color: #0a1d34;
-  padding: 20px;
+  /* background-color: #0a1d34; */
+  background: linear-gradient(180deg, #1a3455 0%, #0a213d 100%);
+  padding: 20px 20px 20px 26px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
   z-index: 1000;
   width: 54.6rem;
@@ -156,12 +157,12 @@
 }
 .cont_info {
   /* background: #070f20; */
-  padding: 20px 24px;
+  padding: 20px 0;
   border-radius: 8px 0 0 8px;
 }
 .popup_cont_img {
   width: 32.7rem;
-  border-radius: 0 8px 8px 0;
+  border-radius: 8px;
 }
 .cont_info_title {
   font-size: 1rem;
@@ -179,7 +180,7 @@
   color: rgba(255, 255, 255, 0.6);
 }
 .cont_info_device {
-  font-size: 1rem;
+  font-size: 0.7rem;
   font-weight: 500;
   line-height: normal;
   letter-spacing: 0em;
