@@ -1,3 +1,0 @@
-# Node
-
-What is node

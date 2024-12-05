@@ -1,3 +1,0 @@
-# Models
-
-What is models

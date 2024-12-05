@@ -32,80 +32,94 @@ plugins:
           nav:
             - Home: index.md
             - Getting Started:
-                - Quick Start: Getting Started/1_quick_start.md
-                - Connect to device: Getting Started/2_devices.md
-                - Visualization and analysis: Getting Started/3_visual.md
+                - Introduction: getting_started/intro.md
+                - Installation: getting_started/install.md
+                - Quick Start: getting_started/quick_start.md
+                # - Visualization and analysis: Getting Started/3_visual.md
             - Guides:
-                - Let the agent think:
-                    - More complex workflow: Guides/Let the agent think/1_workflow.md
-                    - Tools: Guides/Let the agent think/2_tool.md
-                - Let the agent remember:
-                    - Memory: Guides/Let the agent remember/1_memory.md
+                # - Let the agent think:
+                #     - More complex workflow: Guides/Let the agent think/1_workflow.md
+                #     - Tools: Guides/Let the agent think/2_tool.md
+                # - Let the agent remember:
+                #     - Memory: Guides/Let the agent remember/1_memory.md
+                - A Simple VQA Agent: Guides/simple_vqa.md
+                - Let Agent Decide: Guides/outfit_with_switch.md
+                - How To Loop: Guides/outfit_with_loop.md
+                - Let Agent Remember: Guides/outfit_with_ltm.md
             - Core Concepts:
-                - Node:
-                    - Introduction: Core Concepts/Node/intro.md
-                    - Configuration: Core Concepts/Node/config.md
-                    - Build: Core Concepts/Node/build.md
+                # - Node:
+                #     - Introduction: core_concepts/Node/intro.md
+                #     - Configuration: core_concepts/Node/config.md
+                #     - Build: core_concepts/Node/build.md
                 - Workflow:
-                    - Introduction: Core Concepts/Workflow/intro.md
-                    - Configuration: Core Concepts/Workflow/config.md
-                    - Build: Core Concepts/Workflow/build.md
+                    # - Introduction: core_concepts/Workflow/intro.md
+                    # - Configuration: core_concepts/Workflow/config.md
+                    # - Build: core_concepts/Workflow/build.md
+                    - Workflow: core_concepts/Workflow/workflow.md
+                    - Task: core_concepts/Workflow/task.md
+                    - Worker: core_concepts/Workflow/worker.md
                 - Models:
-                    - Introduction: Core Concepts/Models/intro.md
-                    - Configuration: Core Concepts/Models/config.md
-                    - Build: Core Concepts/Models/build.md
+                    # - Introduction: core_concepts/Models/intro.md
+                    # - Configuration: core_concepts/Models/config.md
+                    # - Build: core_concepts/Models/build.md
+                    - Large Languages Models: core_concepts/Models/llms.md
                 - Tool:
-                    - Introduction: Core Concepts/Tool/intro.md
-                    - Configuration: Core Concepts/Tool/config.md
-                    - Build: Core Concepts/Tool/build.md
+                    - Introduction: core_concepts/Tool/intro.md
+                    # - Configuration: core_concepts/Tool/config.md
+                    # - Build: core_concepts/Tool/build.md
                 - Memory:
-                    - Introduction: Core Concepts/Memory/intro.md
-                    - Configuration: Core Concepts/Memory/config.md
-                    - Build: Core Concepts/Memory/build.md
+                    - Introduction: core_concepts/Memory/intro.md
+                    # - Configuration: core_concepts/Memory/config.md
+                    # - Build: core_concepts/Memory/build.md
                 - Clients:
-                    - Introduction: Core Concepts/Clients/intro.md
-                    - Configuration: Core Concepts/Clients/config.md
-                    - Build: Core Concepts/Clients/build.md
-        - locale: zh
-          name: 中文
-          build: true
-          nav:
-            - 首页: index.md
-            - 开始:
-                - 快速开始: Getting Started/1_quick_start.md
-                - 连接设备: Getting Started/2_devices.md
-                - 可视化与分析: Getting Started/3_visual.md
-            - 指南:
-                - 让Agent思考:
-                    - 更复杂的流程: Guides/Let the agent think/1_workflow.md
-                    - 使用工具: Guides/Let the agent think/2_tool.md
-                - 让Agent记住:
-                    - 记忆: Guides/Let the agent remember/1_memory.md
-            - 核心概念:
-                - Node:
-                    - 介绍: Core Concepts/Node/intro.md
-                    - 配置: Core Concepts/Node/config.md
-                    - 构建: Core Concepts/Node/build.md
-                - Workflow:
-                    - 介绍: Core Concepts/Workflow/intro.md
-                    - 配置: Core Concepts/Workflow/config.md
-                    - 构建: Core Concepts/Workflow/build.md
-                - Models:
-                    - 介绍: Core Concepts/Models/intro.md
-                    - 配置: Core Concepts/Models/config.md
-                    - 构建: Core Concepts/Models/build.md
-                - Tool:
-                    - 介绍: Core Concepts/Tool/intro.md
-                    - 配置: Core Concepts/Tool/config.md
-                    - 构建: Core Concepts/Tool/build.md
-                - Memory:
-                    - 介绍: Core Concepts/Memory/intro.md
-                    - 配置: Core Concepts/Memory/config.md
-                    - 构建: Core Concepts/Memory/build.md
-                - Clients:
-                    - 介绍: Core Concepts/Clients/intro.md
-                    - 配置: Core Concepts/Clients/config.md
-                    - 构建: Core Concepts/Clients/build.md
+                    # - Introduction: core_concepts/Clients/intro.md
+                    # - Configuration: core_concepts/Clients/config.md
+                    # - Build: core_concepts/Clients/build.md
+                    - Client Types: core_concepts/Clients/client.md
+                    - How to use app: core_concepts/Clients/app.md
+                - Container: core_concepts/container.md
+                - Register Modules: core_concepts/registry.md
+                - Running In Debug Mode: core_concepts/debug.md
+        # - locale: zh
+        #   name: 中文
+        #   build: true
+        #   nav:
+        #     - 首页: index.md
+        #     - 开始:
+        #         - 快速开始: Getting Started/1_quick_start.md
+        #         - 连接设备: Getting Started/2_devices.md
+        #         - 可视化与分析: Getting Started/3_visual.md
+        #     - 指南:
+        #         - 让Agent思考:
+        #             - 更复杂的流程: Guides/Let the agent think/1_workflow.md
+        #             - 使用工具: Guides/Let the agent think/2_tool.md
+        #         - 让Agent记住:
+        #             - 记忆: Guides/Let the agent remember/1_memory.md
+        #     - 核心概念:
+        #         - Node:
+        #             - 介绍: core_concepts/Node/intro.md
+        #             - 配置: core_concepts/Node/config.md
+        #             - 构建: core_concepts/Node/build.md
+        #         - Workflow:
+        #             - 介绍: core_concepts/Workflow/intro.md
+        #             - 配置: core_concepts/Workflow/config.md
+        #             - 构建: core_concepts/Workflow/build.md
+        #         - Models:
+        #             - 介绍: core_concepts/Models/intro.md
+        #             - 配置: core_concepts/Models/config.md
+        #             - 构建: core_concepts/Models/build.md
+        #         - Tool:
+        #             - 介绍: core_concepts/Tool/intro.md
+        #             - 配置: core_concepts/Tool/config.md
+        #             - 构建: core_concepts/Tool/build.md
+        #         - Memory:
+        #             - 介绍: core_concepts/Memory/intro.md
+        #             - 配置: core_concepts/Memory/config.md
+        #             - 构建: core_concepts/Memory/build.md
+        #         - Clients:
+        #             - 介绍: core_concepts/Clients/intro.md
+        #             - 配置: core_concepts/Clients/config.md
+        #             - 构建: core_concepts/Clients/build.md
   - search: # 搜索
       lang:
         - en

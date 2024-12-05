@@ -1,3 +1,0 @@
-# Clients
-
-What is client.
