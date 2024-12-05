@@ -5,9 +5,9 @@ OmAgent App is an app for developers to visualize and edit business scenario con
 ## App Installation
 The QR code for downloading the app is as follows:
 
-<p align="center">
-  <img src="../../assets/images/app_qrcode.png" width="300"/>
-</p>
+
+![](../../assets/images/app_qrcode.png)
+
 
 - Currently, only Android phones are supported for download and use, but iOS support is coming soon.
 
@@ -16,21 +16,21 @@ The QR code for downloading the app is as follows:
 ### 1. APP Home Page
 After opening the APP, the guide page will be displayed as shown in the figure below:
 
-<p align="center">
-  <img src="../../assets/images/app_boot_page.png" width="300"/>
-</p>
+
+![](../../assets/images/app_boot_page.png)
+
 
 The APP home page includes Mobile, Glasses, and Connection Settings as shown below:
-<p align="center">
-  <img src="../../assets/images/app_home.png" width="300"/>
-</p>
+
+![](../../assets/images/app_home.png)
+
 
 #### 1.1 Connection Settings
 The app automatically searches for and connects to the environment IP running on the local network. If the connection is successful, a toast message will display: "Connection Successful". If the connection fails, a toast message will display: "Service connection failure".
 - Click the "Connection Settings" button at the bottom of the homepage to enter the app configuration page, as shown in the figure below;
-<p align="center">
-  <img src="../../assets/images/app_connection_settings.png" width="300"/>
-</p>
+
+![](../../assets/images/app_connection_settings.png)
+
 
 - Enter the correct IP in the IP input box and click the "Connection" button at the bottom. After a successful connection, return to the homepage and click the "Mobile" section to enter the Mobile page. 
 - Note: The IP input box displays the last successfully connected IP address by default.
@@ -44,16 +44,16 @@ Click the top left return to home button ![](../../assets/images/app_home_button
 #### 2.2 Settings
 Click the top right settings button ![](../../assets/images/app_setting_button.png), the page will pop up a settings window, as shown below. Click the ![](../../assets/images/app_close_button.png) button or outside the window to close the window.
 
-<p align="center">
-  <img src="../../assets/images/app_setting.png" width="300"/>
-</p>
+
+![](../../assets/images/app_setting.png)
+
 
 ##### 2.2.1 Album
 Click Album to enter the gallery page, loading 80 images at a time, as shown below:
 
-<p align="center">
-  <img src="../../assets/images/app_album.png" width="300"/>
-</p>
+
+![](../../assets/images/app_album.png)
+
 
 - Click Reindex, if indexing is successful, the page will prompt success, indicating that all images in the gallery have been successfully indexed. If it fails, it will prompt: failure. After selecting images, click Reindex to index only the selected images.
 
@@ -63,18 +63,18 @@ Click Album to enter the gallery page, loading 80 images at a time, as shown bel
 
 - Click on an image to enlarge and preview it, as shown below; supports left and right sliding and deletion. The top displays the image page number, which can be clicked to return to the gallery.
 
-<p align="center">
-  <img src="../../assets/images/app_album_img.png" width="300"/>
-</p>
+
+![](../../assets/images/app_album_img.png)
+
 
 - Click the top left return button on the gallery page ![](../../assets/images/app_back_button.png), the return button returns to the Mobile page, and the settings window is still displayed.
 
 ##### 2.2.2 Chat History
 Click Chat history to enter the history dialogue page, displaying all dialogue content, as shown below; click Delete all to confirm the operation and clear the history dialogue.
 
-<p align="center">
-  <img src="../../assets/images/app_chat_history.png" width="300"/>
-</p>
+
+![](../../assets/images/app_chat_history.png)
+
 
 History dialogue display rules:
 - Different Workflow dialogues are displayed separated by time, supporting up and down sliding.
@@ -83,44 +83,44 @@ History dialogue display rules:
 
 - The progress menu within a single Workflow supports clicking to expand, as shown below:
 
-<p align="center">
-  <img src="../../assets/images/app_chat_history2.png" width="300"/>
-</p>
+
+![](../../assets/images/app_chat_history2.png)
+
 
 - Share: Click the share button under the Workflow dialogue, the share function is displayed at the bottom of the page, as shown below: sharing can be done as needed.
 
-<p align="center">
-  <img src="../../assets/images/app_chat_history3.png" width="300"/>
-</p>
+
+![](../../assets/images/app_chat_history3.png)
+
 
 ##### 2.2.3 Multi-turn Dialogue
 Click Multi-turn dialogue to display the multi-turn dialogue dropdown menu, default is 1 turn, up to 10 turns can be set, as shown below:
 
-<p align="center">
-  <img src="../../assets/images/app_multi-turn_setting.png" width="300"/>
-</p>
+
+![](../../assets/images/app_multi-turn_setting.png)
+
 
 ##### 2.2.4 Workflow Settings
 Click Workflow Settings to enter the Workflow list selection page, as shown below:
 
-<p align="center">
-  <img src="../../assets/images/app_workflow_setting.png" width="300"/>
-</p>
+
+![](../../assets/images/app_workflow_setting.png)
+
 
 In the list, you can click to select the required Workflow, only single selection is supported. After selection, a checkmark ![](../../assets/images/app_check_button.png) icon is displayed. Click the refresh button ![](../../assets/images/app_refresh_button.png) to refresh the list.
 
 ##### 2.2.5 Parameter Settings
 Click Parameter Settings to enter the custom parameter settings page, as shown below:
 
-<p align="center">
-  <img src="../../assets/images/app_parameter_setting.png" width="300"/>
-</p>
+
+![](../../assets/images/app_parameter_setting.png)
+
 
 Click +Add parameter, the page displays Parameter name\value input boxes, as shown below; the input boxes support deletion, and the input box can add up to 20. After adding 20, there is no +Add parameter button. Click SAVE to save successfully (the input box content can be empty to save successfully).
 
-<p align="center">
-  <img src="../../assets/images/app_parameter_setting2.png" width="300"/>
-</p>
+
+![](../../assets/images/app_parameter_setting2.png)
+
 
 #### 2.3 Global Voice
 ![](../../assets/images/app_voice_button.png) Default is on, click to turn off, click to switch to on prompt: Voice auto-play is on, switch to off prompt: Voice auto-play is off.
@@ -131,27 +131,21 @@ Click +Add parameter, the page displays Parameter name\value input boxes, as sho
 #### 2.5 Voice Dialogue
 Long press the voice button to trigger the voice recognition function, long press to speak and then release, the page displays the dialogue section, as shown below:
 
-<p align="center">
-  <img src="../../assets/images/app_voice_dialog.png" width="600"/>
-</p>
+![](../../assets/images/app_voice_dialog.png)
 
 Note: When the model reply content has images, click the image to enlarge and preview.
 
 ##### 2.5.1 Expand
 ![](../../assets/images/app_expand_button.png) Click the expand button to display the entire dialogue section, as shown below:
 
-<p align="center">
-  <img src="../../assets/images/app_voice_dailog2.png" width="300"/>
-</p>
+![](../../assets/images/app_voice_dailog2.png)
 
 Click the collapse button at the top of the image ![](../../assets/images/app_collapse_button.png) to collapse the dialogue.
 
 ##### 2.5.2 Workflow
 ![](../../assets/images/app_workflow_name.png) is the Workflow name of the current dialogue. Click the button on the right ![](../../assets/images/app_workflow_button.png) to display the Workflow progress, as shown below:
 
-<p align="center">
-  <img src="../../assets/images/app_workflow_progress.png" width="300"/>
-</p>
+![](../../assets/images/app_workflow_progress.png)
 
 The progress menu supports expanding and collapsing.
 
@@ -174,9 +168,7 @@ Long press the voice button to speak, do not release, slide up to ![](../../asse
 #### 2.8 Brush
 ![](../../assets/images/app_brush_button1.png) Default is grayed out, click to enable the brush function, the page displays brush color and eraser buttons as shown below:
 
-<p align="center">
-  <img src="../../assets/images/app_brush_button2.png" width="300"/>
-</p>
+![](../../assets/images/app_brush_button2.png)
 
 Supports selecting different colors for brush annotation on the real-time camera preview page; click the eraser ![](../../assets/images/app_brush_button3.png) to remove all brush annotations; click the brush button ![](../../assets/images/app_brush_button4.png) to turn off the brush function (brush marks are displayed on the dialogue images using the brush in the history dialogue page).
 
