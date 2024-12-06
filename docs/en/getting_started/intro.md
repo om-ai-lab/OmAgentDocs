@@ -21,9 +21,7 @@ With OmAgent, one has the opportunity to craft a bespoke intelligent agent progr
 
 For a deeper comprehension of OmAgent, let us elucidate key terms:  
 
-<p align="center">
-  <img src="../assets/images/architecture.jpg" width="700"/>
-</p>  
+![](../assets/images/architecture.jpg) 
 
 - **Devices**: Central to OmAgent's vision is the empowerment of intelligent hardware devices through artificial intelligence agents, rendering devices a pivotal component of OmAgent's essence. By leveraging the downloadable mobile application we have generously provided, your mobile device can become the inaugural foundational node linked to OmAgent. Devices serve to intake environmental stimuli, such as images and sounds, potentially offering responsive feedback. We have evolved a streamlined backend process to manage the app-centric business logic, thereby enabling developers to concentrate on constructing the intelligence agent's logical framework.  See [client](../core_concepts/Clients/client.md) for more details.
 
