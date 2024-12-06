@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://om-ai-lab.github.io/OmAgentDocs/</loc>
+        <lastmod>2024-12-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://om-ai-lab.github.io/OmAgentDocs/"/>
+    </url>
+    <url>
+        <loc>https://om-ai-lab.github.io/OmAgentDocs/Guides/outfit_with_loop/</loc>
+        <lastmod>2024-12-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://om-ai-lab.github.io/OmAgentDocs/Guides/outfit_with_loop/"/>
+    </url>
+    <url>
+        <loc>https://om-ai-lab.github.io/OmAgentDocs/Guides/outfit_with_ltm/</loc>
+        <lastmod>2024-12-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://om-ai-lab.github.io/OmAgentDocs/Guides/outfit_with_ltm/"/>
+    </url>
+    <url>
+        <loc>https://om-ai-lab.github.io/OmAgentDocs/Guides/outfit_with_switch/</loc>
+        <lastmod>2024-12-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://om-ai-lab.github.io/OmAgentDocs/Guides/outfit_with_switch/"/>
+    </url>
+    <url>
+        <loc>https://om-ai-lab.github.io/OmAgentDocs/Guides/simple_vqa/</loc>
+        <lastmod>2024-12-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://om-ai-lab.github.io/OmAgentDocs/Guides/simple_vqa/"/>
+    </url>
+    <url>
+        <loc>https://om-ai-lab.github.io/OmAgentDocs/Guides/Let%20the%20agent%20remember/1_memory/</loc>
+        <lastmod>2024-12-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://om-ai-lab.github.io/OmAgentDocs/Guides/Let%20the%20agent%20remember/1_memory/"/>
+    </url>
+    <url>
+        <loc>https://om-ai-lab.github.io/OmAgentDocs/Guides/Let%20the%20agent%20think/1_workflow/</loc>
+        <lastmod>2024-12-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://om-ai-lab.github.io/OmAgentDocs/Guides/Let%20the%20agent%20think/1_workflow/"/>
+    </url>
+    <url>
+        <loc>https://om-ai-lab.github.io/OmAgentDocs/Guides/Let%20the%20agent%20think/2_tool/</loc>
+        <lastmod>2024-12-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://om-ai-lab.github.io/OmAgentDocs/Guides/Let%20the%20agent%20think/2_tool/"/>
+    </url>
+    <url>
+        <loc>https://om-ai-lab.github.io/OmAgentDocs/core_concepts/container/</loc>
+        <lastmod>2024-12-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://om-ai-lab.github.io/OmAgentDocs/core_concepts/container/"/>
+    </url>
+    <url>
+        <loc>https://om-ai-lab.github.io/OmAgentDocs/core_concepts/debug/</loc>
+        <lastmod>2024-12-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://om-ai-lab.github.io/OmAgentDocs/core_concepts/debug/"/>
+    </url>
+    <url>
+        <loc>https://om-ai-lab.github.io/OmAgentDocs/core_concepts/registry/</loc>
+        <lastmod>2024-12-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://om-ai-lab.github.io/OmAgentDocs/core_concepts/registry/"/>
+    </url>
+    <url>
+        <loc>https://om-ai-lab.github.io/OmAgentDocs/core_concepts/Clients/app/</loc>
+        <lastmod>2024-12-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://om-ai-lab.github.io/OmAgentDocs/core_concepts/Clients/app/"/>
+    </url>
+    <url>
+        <loc>https://om-ai-lab.github.io/OmAgentDocs/core_concepts/Clients/build/</loc>
+        <lastmod>2024-12-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://om-ai-lab.github.io/OmAgentDocs/core_concepts/Clients/build/"/>
+    </url>
+    <url>
+        <loc>https://om-ai-lab.github.io/OmAgentDocs/core_concepts/Clients/client/</loc>
+        <lastmod>2024-12-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://om-ai-lab.github.io/OmAgentDocs/core_concepts/Clients/client/"/>
+    </url>
+    <url>
+        <loc>https://om-ai-lab.github.io/OmAgentDocs/core_concepts/Clients/config/</loc>
+        <lastmod>2024-12-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://om-ai-lab.github.io/OmAgentDocs/core_concepts/Clients/config/"/>
+    </url>
+    <url>
+        <loc>https://om-ai-lab.github.io/OmAgentDocs/core_concepts/Clients/intro/</loc>
+        <lastmod>2024-12-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://om-ai-lab.github.io/OmAgentDocs/core_concepts/Clients/intro/"/>
+    </url>
+    <url>
+        <loc>https://om-ai-lab.github.io/OmAgentDocs/core_concepts/Memory/build/</loc>
+        <lastmod>2024-12-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://om-ai-lab.github.io/OmAgentDocs/core_concepts/Memory/build/"/>
+    </url>
+    <url>
+        <loc>https://om-ai-lab.github.io/OmAgentDocs/core_concepts/Memory/config/</loc>
+        <lastmod>2024-12-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://om-ai-lab.github.io/OmAgentDocs/core_concepts/Memory/config/"/>
+    </url>
+    <url>
+        <loc>https://om-ai-lab.github.io/OmAgentDocs/core_concepts/Memory/intro/</loc>
+        <lastmod>2024-12-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://om-ai-lab.github.io/OmAgentDocs/core_concepts/Memory/intro/"/>
+    </url>
+    <url>
+        <loc>https://om-ai-lab.github.io/OmAgentDocs/core_concepts/Models/build/</loc>
+        <lastmod>2024-12-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://om-ai-lab.github.io/OmAgentDocs/core_concepts/Models/build/"/>
+    </url>
+    <url>
+        <loc>https://om-ai-lab.github.io/OmAgentDocs/core_concepts/Models/config/</loc>
+        <lastmod>2024-12-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://om-ai-lab.github.io/OmAgentDocs/core_concepts/Models/config/"/>
+    </url>
+    <url>
+        <loc>https://om-ai-lab.github.io/OmAgentDocs/core_concepts/Models/intro/</loc>
+        <lastmod>2024-12-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://om-ai-lab.github.io/OmAgentDocs/core_concepts/Models/intro/"/>
+    </url>
+    <url>
+        <loc>https://om-ai-lab.github.io/OmAgentDocs/core_concepts/Models/llms/</loc>
+        <lastmod>2024-12-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://om-ai-lab.github.io/OmAgentDocs/core_concepts/Models/llms/"/>
+    </url>
+    <url>
+        <loc>https://om-ai-lab.github.io/OmAgentDocs/core_concepts/Node/build/</loc>
+        <lastmod>2024-12-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://om-ai-lab.github.io/OmAgentDocs/core_concepts/Node/build/"/>
+    </url>
+    <url>
+        <loc>https://om-ai-lab.github.io/OmAgentDocs/core_concepts/Node/config/</loc>
+        <lastmod>2024-12-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://om-ai-lab.github.io/OmAgentDocs/core_concepts/Node/config/"/>
+    </url>
+    <url>
+        <loc>https://om-ai-lab.github.io/OmAgentDocs/core_concepts/Node/intro/</loc>
+        <lastmod>2024-12-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://om-ai-lab.github.io/OmAgentDocs/core_concepts/Node/intro/"/>
+    </url>
+    <url>
+        <loc>https://om-ai-lab.github.io/OmAgentDocs/core_concepts/Tool/build/</loc>
+        <lastmod>2024-12-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://om-ai-lab.github.io/OmAgentDocs/core_concepts/Tool/build/"/>
+    </url>
+    <url>
+        <loc>https://om-ai-lab.github.io/OmAgentDocs/core_concepts/Tool/config/</loc>
+        <lastmod>2024-12-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://om-ai-lab.github.io/OmAgentDocs/core_concepts/Tool/config/"/>
+    </url>
+    <url>
+        <loc>https://om-ai-lab.github.io/OmAgentDocs/core_concepts/Tool/intro/</loc>
+        <lastmod>2024-12-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://om-ai-lab.github.io/OmAgentDocs/core_concepts/Tool/intro/"/>
+    </url>
+    <url>
+        <loc>https://om-ai-lab.github.io/OmAgentDocs/core_concepts/Workflow/build/</loc>
+        <lastmod>2024-12-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://om-ai-lab.github.io/OmAgentDocs/core_concepts/Workflow/build/"/>
+    </url>
+    <url>
+        <loc>https://om-ai-lab.github.io/OmAgentDocs/core_concepts/Workflow/config/</loc>
+        <lastmod>2024-12-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://om-ai-lab.github.io/OmAgentDocs/core_concepts/Workflow/config/"/>
+    </url>
+    <url>
+        <loc>https://om-ai-lab.github.io/OmAgentDocs/core_concepts/Workflow/intro/</loc>
+        <lastmod>2024-12-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://om-ai-lab.github.io/OmAgentDocs/core_concepts/Workflow/intro/"/>
+    </url>
+    <url>
+        <loc>https://om-ai-lab.github.io/OmAgentDocs/core_concepts/Workflow/task/</loc>
+        <lastmod>2024-12-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://om-ai-lab.github.io/OmAgentDocs/core_concepts/Workflow/task/"/>
+    </url>
+    <url>
+        <loc>https://om-ai-lab.github.io/OmAgentDocs/core_concepts/Workflow/worker/</loc>
+        <lastmod>2024-12-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://om-ai-lab.github.io/OmAgentDocs/core_concepts/Workflow/worker/"/>
+    </url>
+    <url>
+        <loc>https://om-ai-lab.github.io/OmAgentDocs/core_concepts/Workflow/workflow/</loc>
+        <lastmod>2024-12-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://om-ai-lab.github.io/OmAgentDocs/core_concepts/Workflow/workflow/"/>
+    </url>
+    <url>
+        <loc>https://om-ai-lab.github.io/OmAgentDocs/getting_started/2_devices/</loc>
+        <lastmod>2024-12-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://om-ai-lab.github.io/OmAgentDocs/getting_started/2_devices/"/>
+    </url>
+    <url>
+        <loc>https://om-ai-lab.github.io/OmAgentDocs/getting_started/install/</loc>
+        <lastmod>2024-12-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://om-ai-lab.github.io/OmAgentDocs/getting_started/install/"/>
+    </url>
+    <url>
+        <loc>https://om-ai-lab.github.io/OmAgentDocs/getting_started/intro/</loc>
+        <lastmod>2024-12-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://om-ai-lab.github.io/OmAgentDocs/getting_started/intro/"/>
+    </url>
+    <url>
+        <loc>https://om-ai-lab.github.io/OmAgentDocs/getting_started/quick_start/</loc>
+        <lastmod>2024-12-06</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://om-ai-lab.github.io/OmAgentDocs/getting_started/quick_start/"/>
+    </url>
+</urlset>
