@@ -69,6 +69,7 @@ plugins:
                     # - Build: core_concepts/Tool/build.md
                 - Memory:
                     - Introduction: core_concepts/Memory/intro.md
+                    - Shared Memory STM: core_concepts/Memory/shared_memory_STM.md
                     # - Configuration: core_concepts/Memory/config.md
                     # - Build: core_concepts/Memory/build.md
                 - Clients:
